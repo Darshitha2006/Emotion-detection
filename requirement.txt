@@ -1,9 +1,6 @@
-numpy
-pandas
-opencv-python
-tensorflow
-keras
-matplotlib
 streamlit
-Pillow
-scikit-learn
+opencv-python-headless
+numpy
+tensorflow
+pillow
+
